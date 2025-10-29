@@ -48,7 +48,7 @@ Der Algorithmus berücksichtigt Verkehrsregeln, Straßenschilder (30er/50er Zone
 
 
 
-## 📞 Zugang
+## Zugang
 
 Dieses Repository zeigt nur die Projektbeschreibung, ausgewählte Screenshots und Beispielausgaben.
 Der vollständige Code und alle Daten bleiben privat und sind nicht öffentlich einsehbar.
