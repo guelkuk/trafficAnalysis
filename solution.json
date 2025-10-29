@@ -1,0 +1,66 @@
+{
+    "Szene_1": [
+        {
+            "bildname": "0.png",
+            "geschwindigkeit": 0,
+            "richtung": "geradeaus"
+        },
+        {
+            "bildname": "1.png",
+            "geschwindigkeit": 30,
+            "richtung": "geradeaus"
+        },
+        {
+            "bildname": "2.png",
+            "geschwindigkeit": 30,
+            "richtung": "geradeaus"
+        },
+        {
+            "bildname": "3.png",
+            "geschwindigkeit": 30,
+            "richtung": "geradeaus"
+        },
+        {
+            "bildname": "4.png",
+            "geschwindigkeit": 30,
+            "richtung": "geradeaus"
+        },
+        {
+            "bildname": "5.png",
+            "geschwindigkeit": 30,
+            "richtung": "geradeaus"
+        },
+        {
+            "bildname": "6.png",
+            "geschwindigkeit": 0,
+            "richtung": "geradeaus"
+        },
+        {
+            "bildname": "7.png",
+            "geschwindigkeit": 0,
+            "richtung": "rechts"
+        },
+        {
+            "bildname": "8.png",
+            "geschwindigkeit": 10,
+            "richtung": "rechts"
+        },
+        {
+            "bildname": "9.png",
+            "geschwindigkeit": 10,
+            "richtung": "rechts"
+        }
+    ],
+    "Szene_2": [
+        {
+            "bildname": "0.png",
+            "geschwindigkeit": 30,
+            "richtung": "geradeaus"
+        },
+        {
+            "bildname": "1.png",
+            "geschwindigkeit": 30,
+            "richtung": "geradeaus"
+        }
+    ]
+}
